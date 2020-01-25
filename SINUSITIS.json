@@ -1,0 +1,7 @@
+[
+  {"farmaco": "R1","descripcion": "Inflamaciones agudas o crónicas que provocan dolores de diversa localización. Inmunomodulador al regular la respuesta inflamatoria. Exudación mucosa por excelencia.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R49","descripcion": "Sinusitis de diversa localización: esfenoidal, frontal o maxilar.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R9","descripcion": "Cuadros con tos irritativa a consecuencia de afecciones catarrales de las vías respiratorias superiores como infecciones gripales, laringitis, rinofaringitis y traqueitis; accesos de tos seca, como tos ferina en todos sus estadíos y afecciones bronquiales como bronquitis espástica y asma bronquial.","dosis": "10 gotas 3 o 4 veces al día"},
+  {"farmaco": "R96","descripcion": "Sinusitis y rinitis catarral, específicamente en casos de rinitis aguda y crónica, rinitis seca, rinitis atrófica y rinitis vasomotora; en general se indica en catarros nasales de toda índole incluyendo los que son causados por una infección, y que se presentan con congestión nasal y goteo postnasal.","dosis": "En casos agudos: aplicar 1-3 veces al día 1 nebulización en cada fosa nasal. En casos crónicos: aplicar 1-2 veces al día 1 nebulización en cada fosa nasal. Niños hasta12 años: en casos agudos 1-2 veces,y en casos crónicos 1 vez al día, 1 nebulización en cada fosa nasal."}
+
+]

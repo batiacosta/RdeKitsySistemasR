@@ -1,0 +1,6 @@
+[
+  {"farmaco": "R1","cantidad": "01","accion": "Acción antiinflamatoria específica. lnmunomodulación en trastornos auto- inmunes."},
+  {"farmaco": "R55","cantidad": "01","accion": "Estímulo inmunológico a través de la modulación de la inflamación. Acción cicatrizante."},
+  {"farmaco": "R17","cantidad": "01","accion": "Acción sobre el sistema linfático en el sentido de una terapia de drenaje."},
+  {"farmaco": "ORGANO-\nTRÓPICO","cantidad": "01","accion": "Focalización al sitio de infección o sitio de reforzamiento inmunológico."}
+]
